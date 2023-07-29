@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NayaraCosta\\Desktop\\EmprestimoLivros\\EmprestimoLivros\\EmprestimoLivros.csproj",
+      "projectUniqueName": "C:\\Users\\NayaraCosta\\Desktop\\CRUDEmprestimoLivros\\EmprestimoLivros\\EmprestimoLivros.csproj",
       "projectName": "EmprestimoLivros",
-      "projectPath": "C:\\Users\\NayaraCosta\\Desktop\\EmprestimoLivros\\EmprestimoLivros\\EmprestimoLivros.csproj",
+      "projectPath": "C:\\Users\\NayaraCosta\\Desktop\\CRUDEmprestimoLivros\\EmprestimoLivros\\EmprestimoLivros.csproj",
       "packagesPath": "C:\\Users\\NayaraCosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NayaraCosta\\Desktop\\EmprestimoLivros\\EmprestimoLivros\\obj\\",
+      "outputPath": "C:\\Users\\NayaraCosta\\Desktop\\CRUDEmprestimoLivros\\EmprestimoLivros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NayaraCosta\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FgGxB3EgVvfv6Zu7eqDQZQuzFHglca5RAC7pIPfTa7IPLeCtenLFuZ84wQrqusXOceVEBr3kVKeHmFYV0/UdKA==",
+  "dgSpecHash": "I2XW8jSi2JfszrOc2amdCBE2kdBddWFx2qxK5FdqOu1cyVy+O1ZUWwpgZlNeVrx/EapM12f4QHNh32HvZdWhng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NayaraCosta\\Desktop\\EmprestimoLivros\\EmprestimoLivros\\EmprestimoLivros.csproj",
+  "projectFilePath": "C:\\Users\\NayaraCosta\\Desktop\\CRUDEmprestimoLivros\\EmprestimoLivros\\EmprestimoLivros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NayaraCosta\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\NayaraCosta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
